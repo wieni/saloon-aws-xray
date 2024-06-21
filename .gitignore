@@ -1,0 +1,8 @@
+/.phpunit.cache
+/vendor
+.env
+.phpunit.result.cache
+/.fleet
+/.idea
+/.vscode
+composer.lock
